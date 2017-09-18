@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import pika
 import json
 import time
