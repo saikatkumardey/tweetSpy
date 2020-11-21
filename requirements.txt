@@ -27,7 +27,7 @@ pika==0.11.0
 plotly==2.0.15
 python-dateutil==2.6.1
 pytz==2017.2
-requests==2.18.4
+requests==2.20.0
 requests-oauthlib==0.8.0
 six==1.10.0
 textblob==0.13.0
